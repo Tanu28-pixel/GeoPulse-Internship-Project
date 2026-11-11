@@ -1,0 +1,18 @@
+
+# Generated GPS datasets
+data/raw/*.csv
+data/processed/*.csv
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+
+# Environment variables and secrets
+.env
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
