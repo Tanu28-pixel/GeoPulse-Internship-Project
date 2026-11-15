@@ -20,3 +20,8 @@ venv/
 # Local DuckDB database
 *.duckdb
 *.wal
+# Generated datasets and analysis outputs
+data/
+
+# Ubuntu virtual environment
+.venv-ubuntu/
